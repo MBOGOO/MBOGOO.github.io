@@ -1,4 +1,4 @@
-# Alex Mbogo🌱
+# Alex Mbogo
 
 👨‍🎓 **Currently Learning**: Computer Science at Kabarak University  
 👀 **Interests**: Software Engineering & Data Science  
@@ -6,12 +6,7 @@
 📫 **Contact**: 
 - **Phone**: 0758949633
 - **Email**: [kangethealex5972@gmail.com](mailto:kangethealex5972@gmail.com)
-
-
-## Social Media
-- **Instagram**: [](https://instagram.com/)
-- **LinkedIn**: e](https://www.linkedin.com/in/i)
-
+- 
 ## Skills
 **Languages & Tools**:
 - HTML5
@@ -24,9 +19,8 @@
 - MySQL
 - C
 - C++
+- Laravel
 
 ## About Me
 A passionate full-stack developer with a keen interest in building robust applications and exploring the world of data science.
 
-## GitHub Language Stats
-![GitHub Stats](link-to-your-github-stats-image)
